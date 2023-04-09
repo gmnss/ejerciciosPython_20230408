@@ -1,0 +1,1 @@
+Este es un archivo de prueba para contar las palabras del ejercicio 8.
